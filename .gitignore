@@ -1,0 +1,13 @@
+# Environment files
+.env
+*/.env
+payment-service/.env
+
+# Node
+node_modules
+
+# Docker
+docker-compose.yml
+
+# Logs
+*.log

@@ -1,0 +1,11 @@
+/* src/styles/global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    max-width: 100%;
+  overflow-x: clip; 
+}

@@ -1,0 +1,10 @@
+# Ignore all node_modules folders (any depth)
+node_modules/
+
+# Ignore all dotenv files
+.env
+.env.*
+
+uploads/
+
+
